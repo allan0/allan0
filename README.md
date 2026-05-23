@@ -32,9 +32,11 @@
 
 ### 📊 Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allan0&layout=compact&theme=tokyonight&hide_border=true)
-![Allan's GitHub stats](https://github-readme-stats.vercel.app/api?username=allan0&show_icons=true&theme=tokyonight&hide_border=true)
-
+![Python](https://img.shields.io/badge/Python-8%20years-3572A5?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-active-3178C6?style=flat&logo=typescript&logoColor=white)
+![Data Science](https://img.shields.io/badge/Data%20Science-3%20years-FF4B4B?style=flat&logo=pandas&logoColor=white)
+![Web3](https://img.shields.io/badge/Web3-blockchain%20native-F7931A?style=flat&logo=bitcoin&logoColor=white)
+![Contributions](https://img.shields.io/badge/2026%20contributions-149-1D9E75?style=flat&logo=github&logoColor=white)
 ---
 
 ### 🌐 Links
